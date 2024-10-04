@@ -181,7 +181,7 @@
     font-weight: 400;
 }
 .homepage{
-    background-image: url(assets/frontpage.jpg);
+    background-image: url(./assets/frontpage.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
